@@ -5,7 +5,7 @@ from hazm import Normalizer,sent_tokenize
 
 
 
-alpha = 'آابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی.،؛:!؟ ‌_>'
+alpha = '۱۲۳۴۵۶۷۸۹۰آابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی.،؛:!؟ ‌_>'
 farsi_cahr = 'ابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی'
 punctuation = '.،؛:!؟'
 SPACE_LOCATION = alpha.index(' ')
